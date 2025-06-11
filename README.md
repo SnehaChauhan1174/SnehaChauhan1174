@@ -2,7 +2,6 @@
 
 <!--
 **SnehaChauhan1174/SnehaChauhan1174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Sneha Chauhan, a B.Tech student at NIT Kurukshetra in pre-final year. I am an aspiring software developer passionate about technology, open source and problem solving.
+- 🔭 I am currently working on honing my skills in web development and Machine Learning.
+- 🌱 I am currently learning Machine learning and deep learning specifically CNNs. Future plans to go deep in cloud deployment.
+- 👯 I am looking to collaborate in open source projects, I am totally a beginner in open source.
+- 💬 Ask me about neural networks, working with APIs, Express and Node.js.
+- 📫 How to reach me: snehachauhan5002@gmail.com
+- ⚡ Fun Fact:  My favorite SQL command is SELECT * FROM snacks WHERE mood = 'sad';
+
