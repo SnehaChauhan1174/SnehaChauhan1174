@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Sneha Chauhan, a B.Tech student at NIT Kurukshetra in pre-final year. I am a MERN stack developer & ML enthusiast, passionate about problem solving and technology.
-- 🔭 I am currently working on honing my skills in web development and Machine Learning.
-- 🌱 I am currently learning Machine learning and deep learning specifically CNNs. Future plans to go deep in cloud deployment.
+- 🔭 I am currently working on honing my skills in Java, web development and Machine Learning.
 - 👯 I am looking to collaborate in open source projects, I am totally a beginner in open source.
 - 💬 Ask me about neural networks, working with APIs, Express and Node.js.
 - 📫 How to reach me: snehachauhan5002@gmail.com
